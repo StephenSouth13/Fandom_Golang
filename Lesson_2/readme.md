@@ -1,0 +1,1 @@
+Ở buổi 2 tôi sẽ đi vào Primitive Data Types in Go | A Comprehensive Guide to Booleans, Strings, and Numbers
