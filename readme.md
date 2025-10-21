@@ -7,6 +7,7 @@
 > ⚙️ Dự án **Fandom_Golang** – Backend mạnh mẽ toàn diện với Go, phục vụ hệ thống fandom, cộng đồng người hâm mộ & fanclub.
 
 ## 🧑‍💼 Tác giả – PM/Dev xịn  
+![alt text](image.png)
 **Quách Thành Long**  
 [quachthanhlong.com](https://quachthanhlong.com) – nơi cập nhật blog, dự án và hành trình dev của mình.
 
