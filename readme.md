@@ -1,13 +1,13 @@
 # Fandom_Golang
 
-[![Go version](https://img.shields.io/badge/go-version-%3E%3D1.20-blue.svg)](https://golang.org)  
+![alt text](img/logo.png) 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)  
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)
 
 > ⚙️ Dự án **Fandom_Golang** – Backend mạnh mẽ toàn diện với Go, phục vụ hệ thống fandom, cộng đồng người hâm mộ & fanclub.
 
 ## 🧑‍💼 Tác giả – PM/Dev xịn  
-![alt text](image.png)
+![alt text](img/hero.png)
 **Quách Thành Long**  
 [quachthanhlong.com](https://quachthanhlong.com) – nơi cập nhật blog, dự án và hành trình dev của mình.
 
